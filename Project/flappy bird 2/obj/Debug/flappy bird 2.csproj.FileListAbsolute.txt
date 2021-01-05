@@ -1,0 +1,30 @@
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\bin\Debug\flappy bird 2.exe.config
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\bin\Debug\flappy bird 2.exe
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\bin\Debug\flappy bird 2.pdb
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy bird 2.csprojAssemblyReference.cache
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy_bird_2.Form1.resources
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy_bird_2.Properties.Resources.resources
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy bird 2.csproj.GenerateResource.cache
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy bird 2.csproj.CoreCompileInputs.cache
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy bird 2.exe
+C:\Users\mr.khaled\source\repos\flappy bird 2\flappy bird 2\obj\Debug\flappy bird 2.pdb
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.exe.config
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.exe
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.pdb
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csprojAssemblyReference.cache
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy_bird_2.Form1.resources
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy_bird_2.Properties.Resources.resources
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csproj.GenerateResource.cache
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csproj.CoreCompileInputs.cache
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.exe
+C:\Users\mr.khaled\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.pdb
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.exe.config
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.exe
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\bin\Debug\flappy bird 2.pdb
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csprojAssemblyReference.cache
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy_bird_2.Form1.resources
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy_bird_2.Properties.Resources.resources
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csproj.GenerateResource.cache
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.csproj.CoreCompileInputs.cache
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.exe
+C:\Users\ALKODS\source\repos\Project\flappy bird 2\obj\Debug\flappy bird 2.pdb
